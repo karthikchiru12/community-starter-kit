@@ -1,3 +1,4 @@
+
 # welcome bot: A Probot App
 
 DESCRIPTION PLACEHOLDER
@@ -53,3 +54,15 @@ If you need help using this app, we encourage you to:
 ## Project maintainers
 
 This project is maintained by Monalisa Octocat and friends. Use of this project under the [MIT License](LICENSE.md).
+=======
+# Your GitHub Learning Lab Repository for Community Starter Kit
+project Title
+One Paragraph of project description goes here
+
+Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+Prerequisites
+What things you need to install the software and how to install them
+
+Give examples
